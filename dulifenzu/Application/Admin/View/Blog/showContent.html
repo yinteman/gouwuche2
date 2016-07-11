@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<div id="container">
+		<dl>
+
+			<dt>{$title}</dt>
+			<dd>
+				<img {$src} style="width: 200px;height: 200px" />
+				<p>{$content}<p>
+			</dd>
+            <dt>分类</dt>
+            <dd>{name}</dd>
+            <dt>上传时间</dt>
+            <dd>{$time|date="y-m-r",###}</dd>
+
+
+
+
+		</dl>
+        
+
+
+	</div>
+</body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+
+<head>
+	<meta charset="UTF-8">
+	<title>listNode</title>
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/Css/bootstrap.min.css">
+<script type="text/javascript" src="__PUBLIC__/Js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/Js/bootstrap.min.js"></script>
+</head>
+<body>
+	<div class="container">
+		<table class="table">
+		 <thead>
+		 	<td>应用名称</td>
+	
+             
+		 	
+           </thead>
+           <tbody >
+			<foreach name="node" item='app'>
+				<tr>
+                     <td>
+                     	<tr>
+                     		<td>{$app.title}
+                     		<a href="{:U('Admin/Rbc/addNode',array('pid'=>$app['id'],'level'=>2))}" class="btn">添加控制器</a>
+                     		<a href="{:U('Admin/Rbc/deleteNode',array('id'=>$app['id']))}" class="btn">删除应用</a>
+                     	   </td>
+
+                     		<td>
+                     		<table class="table table-hover">
+                     		<thead>
+                     		<td >控制器名称</td>
+                     		 <td>方法名称</td>
+                     		</thead>
+                     		
+                     		<foreach name="app.child" item="controller">
+                     			<tr >
+                     			<td>{$controller.title}
+                                    <a href="{:U('Admin/Rbc/addNode',array('pid'=>$controller['id'],'level'=>3))}" class="btn">添加方法</a>
+                     		        <a href="{:U('Admin/Rbc/deleteNode',array('pid'=>$controller['pid'],'id'=>$controller['id']))}" class="btn">删除控制器</a>
+                     		         </td>
+                                   <td>
+                                   <foreach name="controller.child" item="method">
+                     			     <ul style="list-style:none;float: left;">
+                     			     	<li><label>{$method.title}</label>|<a href="{:U('Admin/Rbc/deleteNode',array('pid'=>$method['pid'],'id'=>$menthod['id']))}">删除方法</a></li>
+                     			     </ul>
+                     			   </foreach>                   				
+                                    </td>
+                     		       </tr>
+                     		 </foreach>
+                     		 </table>
+                     		</td>
+                     	</tr>
+
+                     </td>
+                </tr>
+			</foreach>
+		</tbody>
+		</table>
+	</div>
+</body>
+</html>

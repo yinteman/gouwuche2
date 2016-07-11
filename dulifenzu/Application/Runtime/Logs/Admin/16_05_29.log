@@ -1,0 +1,668 @@
+[ 2016-05-29T00:08:04+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/addBlogHandle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000916s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+NOTIC: [8] Undefined variable: fileName E:\Demo\dulifenzu\Application\Admin\Controller\BlogController.class.php 第 43 行.
+NOTIC: [8] Undefined offset: 0 E:\Demo\dulifenzu\Application\Admin\Controller\BlogController.class.php 第 44 行.
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0068s ]
+SQL: INSERT INTO `th_blog` (`title`,`content`,`time`,`cid`,`num`) VALUES ('JS+Jqury是一家','<p><img alt=\"evil.jpg\" src=\"/dulifenzu/uploads/image/20160528/1464450782127546.jpg\" title=\"1464450782127546.jpg\"/></p>','1464451684','2','1') [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `th_blog_attr` [ RunTime:0.0070s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '，11 )' at line 1
+ [ SQL语句 ] : INSERT INTO th_blog_attr ( attr_id , blog_id) values ( 2 ，11 )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '，11 )' at line 1
+ [ SQL语句 ] : INSERT INTO th_blog_attr ( attr_id , blog_id) values ( 2 ，11 )
+
+[ 2016-05-29T00:09:29+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/addBlogHandle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001526s ]
+NOTIC: [8] Undefined variable: fileName E:\Demo\dulifenzu\Application\Admin\Controller\BlogController.class.php 第 43 行.
+NOTIC: [8] Undefined offset: 0 E:\Demo\dulifenzu\Application\Admin\Controller\BlogController.class.php 第 44 行.
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0061s ]
+SQL: INSERT INTO `th_blog` (`title`,`content`,`time`,`cid`,`num`) VALUES ('JS+Jqury是一家','<p><img alt=\"evil.jpg\" src=\"/dulifenzu/uploads/image/20160528/1464450782127546.jpg\" title=\"1464450782127546.jpg\"/></p>','1464451769','2','1') [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_blog_attr` [ RunTime:0.0078s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '，12 )' at line 1
+ [ SQL语句 ] : INSERT INTO th_blog_attr ( `attr_id` , `blog_id`) values ( 2 ，12 )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '，12 )' at line 1
+ [ SQL语句 ] : INSERT INTO th_blog_attr ( `attr_id` , `blog_id`) values ( 2 ，12 )
+
+[ 2016-05-29T00:12:05+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/addBlogHandle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001580s ]
+
+[ 2016-05-29T00:12:18+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/addBlogHandle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001750s ]
+NOTIC: [8] Undefined variable: fileName E:\Demo\dulifenzu\Application\Admin\Controller\BlogController.class.php 第 43 行.
+NOTIC: [8] Undefined offset: 0 E:\Demo\dulifenzu\Application\Admin\Controller\BlogController.class.php 第 44 行.
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0089s ]
+SQL: INSERT INTO `th_blog` (`title`,`content`,`time`,`cid`,`num`) VALUES ('JS+Jqury是一家','<p><img alt=\"evil.jpg\" src=\"/dulifenzu/uploads/image/20160528/1464450782127546.jpg\" title=\"1464450782127546.jpg\"/></p>','1464451938','2','1') [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `th_blog_attr` [ RunTime:0.0060s ]
+SQL: INSERT INTO th_blog_attr ( `attr_id` , `blog_id`) values  ( 2 , 13) , ( 3 , 13)  [ RunTime:0.0004s ]
+ERR: :
+ [ SQL语句 ] : INSERT INTO th_blog_attr ( `attr_id` , `blog_id`) values  ( 2 , 13) , ( 3 , 13) 
+ERR: :
+ [ SQL语句 ] : INSERT INTO th_blog_attr ( `attr_id` , `blog_id`) values  ( 2 , 13) , ( 3 , 13) 
+
+[ 2016-05-29T00:13:36+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/addBLOG
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001807s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `th_cate` ORDER BY sort  [ RunTime:0.0003s ]
+NOTIC: [2] str_repeat(): Second argument has to be greater than or equal to 0 E:\Demo\dulifenzu\Application\MyLib\Category.class.php 第 10 行.
+NOTIC: [2] str_repeat(): Second argument has to be greater than or equal to 0 E:\Demo\dulifenzu\Application\MyLib\Category.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `th_attr`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000311s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012951s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013169s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001991s ]
+
+[ 2016-05-29T00:14:00+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/addBlogHandle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001143s ]
+NOTIC: [8] Undefined variable: fileName E:\Demo\dulifenzu\Application\Admin\Controller\BlogController.class.php 第 43 行.
+NOTIC: [8] Undefined offset: 0 E:\Demo\dulifenzu\Application\Admin\Controller\BlogController.class.php 第 44 行.
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0064s ]
+SQL: INSERT INTO `th_blog` (`title`,`content`,`time`,`cid`,`num`) VALUES ('我和UI','<p>我和UI<img alt=\"AI34.jpg\" src=\"/dulifenzu/uploads/image/20160529/1464452036103766.jpg\" title=\"1464452036103766.jpg\"/></p>','1464452040','4','1') [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `th_blog_attr` [ RunTime:0.0069s ]
+SQL: INSERT INTO th_blog_attr ( `attr_id` , `blog_id`) values  ( 3 , 1) ; [ RunTime:0.0005s ]
+ERR: :
+ [ SQL语句 ] : INSERT INTO th_blog_attr ( `attr_id` , `blog_id`) values  ( 3 , 1) ;
+ERR: :
+ [ SQL语句 ] : INSERT INTO th_blog_attr ( `attr_id` , `blog_id`) values  ( 3 , 1) ;
+
+[ 2016-05-29T00:16:04+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/addBLOG
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001328s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `th_cate` ORDER BY sort  [ RunTime:0.0004s ]
+NOTIC: [2] str_repeat(): Second argument has to be greater than or equal to 0 E:\Demo\dulifenzu\Application\MyLib\Category.class.php 第 10 行.
+NOTIC: [2] str_repeat(): Second argument has to be greater than or equal to 0 E:\Demo\dulifenzu\Application\MyLib\Category.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `th_attr`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000324s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015229s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015439s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001289s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001014s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001135s ]
+
+[ 2016-05-29T00:16:25+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/addBlogHandle.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001031s ]
+NOTIC: [8] Undefined variable: fileName E:\Demo\dulifenzu\Application\Admin\Controller\BlogController.class.php 第 43 行.
+NOTIC: [8] Undefined offset: 0 E:\Demo\dulifenzu\Application\Admin\Controller\BlogController.class.php 第 44 行.
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0071s ]
+SQL: INSERT INTO `th_blog` (`title`,`content`,`time`,`cid`,`num`) VALUES ('我和Html','<p><img alt=\"AI2.jpg\" src=\"/dulifenzu/uploads/image/20160529/1464452181848242.jpg\" title=\"1464452181848242.jpg\"/></p>','1464452185','8','1') [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_blog_attr` [ RunTime:0.0069s ]
+SQL: INSERT INTO th_blog_attr ( `attr_id` , `blog_id`) values ( 1 , 2) ; [ RunTime:0.0003s ]
+ERR: :
+ [ SQL语句 ] : INSERT INTO th_blog_attr ( `attr_id` , `blog_id`) values ( 1 , 2) ;
+ERR: :
+ [ SQL语句 ] : INSERT INTO th_blog_attr ( `attr_id` , `blog_id`) values ( 1 , 2) ;
+
+[ 2016-05-29T02:11:16+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/addBLOG
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003021s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `th_cate` ORDER BY sort  [ RunTime:0.0004s ]
+NOTIC: [2] str_repeat(): Second argument has to be greater than or equal to 0 E:\Demo\dulifenzu\Application\MyLib\Category.class.php 第 10 行.
+NOTIC: [2] str_repeat(): Second argument has to be greater than or equal to 0 E:\Demo\dulifenzu\Application\MyLib\Category.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `th_attr`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000141s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000450s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016312s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016577s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000910s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001394s ]
+
+[ 2016-05-29T02:11:22+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001406s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0073s ]
+
+[ 2016-05-29T02:11:46+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003235s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0071s ]
+SQL: SELECT `id`,`title`,`content`,`time`,`cid`,`num` FROM `th_blog` WHERE `isset` = 0  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0081s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='1' [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='2' [ RunTime:0.0004s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001981s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002195s ]
+
+[ 2016-05-29T02:12:22+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0091s ]
+SQL: SELECT `id`,`title`,`content`,`time`,`cid`,`num` FROM `th_blog` WHERE `isset` = 0  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0066s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='1' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='2' [ RunTime:0.0003s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: attrs E:\Demo\dulifenzu\Application\Admin\Controller\BlogController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001560s ]
+
+[ 2016-05-29T02:12:35+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001320s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0083s ]
+SQL: SELECT `id`,`title`,`content`,`time`,`cid`,`num` FROM `th_blog` WHERE `isset` = 0  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0067s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='1' [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='2' [ RunTime:0.0003s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001810s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001979s ]
+
+[ 2016-05-29T02:16:54+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001519s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0095s ]
+SQL: SELECT `id`,`title`,`content`,`time`,`cid`,`num` FROM `th_blog` WHERE `isset` = 0  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0069s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='1' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='2' [ RunTime:0.0003s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001107s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001244s ]
+
+[ 2016-05-29T02:20:50+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001322s ]
+
+[ 2016-05-29T02:21:01+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0072s ]
+SQL: SELECT `id`,`title`,`content`,`time`,`cid`,`num` FROM `th_blog` WHERE `isset` = 0  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0082s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='1' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='2' [ RunTime:0.0004s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001173s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001339s ]
+
+[ 2016-05-29T02:24:22+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001171s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0099s ]
+SQL: SELECT `id`,`title`,`content`,`time`,`cid`,`num` FROM `th_blog` WHERE `isset` = 0  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0059s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='1' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0083s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='2' [ RunTime:0.0004s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+
+[ 2016-05-29T02:25:53+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001878s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0073s ]
+SQL: SELECT `id`,`title`,`content`,`time`,`cid`,`num` FROM `th_blog` WHERE `isset` = 0  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0077s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='1' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='2' [ RunTime:0.0003s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+
+[ 2016-05-29T02:27:29+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001871s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0089s ]
+SQL: SELECT `id`,`title`,`content`,`time`,`cid`,`num` FROM `th_blog` WHERE `isset` = 0  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0077s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='1' [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='2' [ RunTime:0.0006s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+NOTIC: [8] Undefined variable: datdInfo E:\Demo\dulifenzu\Application\Runtime\Cache\Admin\89e99d0d2b381951e18954c1486fc18f.php 第 20 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012045s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012215s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002741s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002871s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001178s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001332s ]
+
+[ 2016-05-29T02:28:46+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0074s ]
+SQL: SELECT `id`,`title`,`content`,`time`,`cid`,`num` FROM `th_blog` WHERE `isset` = 0  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0074s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='1' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='2' [ RunTime:0.0007s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000229s ]
+NOTIC: [8] Undefined variable: date E:\Demo\dulifenzu\Application\Runtime\Cache\Admin\89e99d0d2b381951e18954c1486fc18f.php 第 30 行.
+NOTIC: [8] Undefined variable: date E:\Demo\dulifenzu\Application\Runtime\Cache\Admin\89e99d0d2b381951e18954c1486fc18f.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011243s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011404s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000850s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000980s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001242s ]
+
+[ 2016-05-29T02:31:32+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0100s ]
+SQL: SELECT `id`,`title`,`content`,`time`,`cid`,`num` FROM `th_blog` WHERE `isset` = 0  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0057s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='1' [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='2' [ RunTime:0.0004s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000937s ]
+
+[ 2016-05-29T02:31:47+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002338s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0095s ]
+SQL: SELECT `id`,`title`,`content`,`time`,`cid`,`num` FROM `th_blog` WHERE `isset` = 0  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0061s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='1' [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='2' [ RunTime:0.0003s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+NOTIC: [8] Undefined variable: date E:\Demo\dulifenzu\Application\Runtime\Cache\Admin\89e99d0d2b381951e18954c1486fc18f.php 第 30 行.
+NOTIC: [8] Undefined variable: date E:\Demo\dulifenzu\Application\Runtime\Cache\Admin\89e99d0d2b381951e18954c1486fc18f.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010656s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010774s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000687s ]
+
+[ 2016-05-29T02:36:45+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001198s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0082s ]
+SQL: SELECT `id`,`title`,`content`,`time`,`cid`,`num` FROM `th_blog` WHERE `isset` = 0  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0068s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='1' [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='2' [ RunTime:0.0003s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000224s ]
+NOTIC: [8] Undefined variable: date E:\Demo\dulifenzu\Application\Runtime\Cache\Admin\89e99d0d2b381951e18954c1486fc18f.php 第 30 行.
+NOTIC: [8] Undefined variable: date E:\Demo\dulifenzu\Application\Runtime\Cache\Admin\89e99d0d2b381951e18954c1486fc18f.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012122s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000854s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000956s ]
+
+[ 2016-05-29T02:36:47+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/toTrash/id/1/type/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000881s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001003s ]
+
+[ 2016-05-29T02:45:41+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/toTrash/id/1/type/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001517s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0079s ]
+NOTIC: [8] Undefined variable: set E:\Demo\dulifenzu\ThinkPHP\Library\Think\Db\Driver.class.php 第 387 行.
+NOTIC: [2] implode(): Invalid arguments passed E:\Demo\dulifenzu\ThinkPHP\Library\Think\Db\Driver.class.php 第 387 行.
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 1' at line 1
+ [ SQL语句 ] : UPDATE `th_blog` SET  WHERE `id` = 1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 1' at line 1
+ [ SQL语句 ] : UPDATE `th_blog` SET  WHERE `id` = 1
+
+[ 2016-05-29T02:46:53+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/toTrash/id/1/type/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002037s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0129s ]
+SQL: UPDATE `th_blog` SET `isset`='1' WHERE `id` = 1 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012749s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000823s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001056s ]
+
+[ 2016-05-29T02:46:55+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/trash.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002172s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0076s ]
+SQL: SELECT `id`,`title`,`content`,`time`,`cid`,`num` FROM `th_blog` WHERE `isset` = 1  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0077s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='1' [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0083s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000153s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000433s ]
+NOTIC: [8] Undefined variable: date E:\Demo\dulifenzu\Application\Runtime\Cache\Admin\89e99d0d2b381951e18954c1486fc18f.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018318s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001070s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001602s ]
+
+[ 2016-05-29T02:47:01+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/toTrash/id/1/type/0.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0066s ]
+SQL: UPDATE `th_blog` SET `isset`='0' WHERE `id` = 1 [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000225s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009819s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010034s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000814s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001113s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001243s ]
+
+[ 2016-05-29T02:47:03+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/trash.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001456s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0085s ]
+SQL: SELECT `id`,`title`,`content`,`time`,`cid`,`num` FROM `th_blog` WHERE `isset` = 1  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000227s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000670s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016571s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016722s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000942s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001250s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001445s ]
+
+[ 2016-05-29T02:47:21+08:00 ] ::1 /dulifenzu/Index.php/Admin/Blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001146s ]
+SQL: SHOW COLUMNS FROM `th_blog` [ RunTime:0.0077s ]
+SQL: SELECT `id`,`title`,`content`,`time`,`cid`,`num` FROM `th_blog` WHERE `isset` = 0  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `th_attr` [ RunTime:0.0057s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='1' [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `th_cate` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='4' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: mapping_order E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 188 行.
+NOTIC: [8] Undefined index: mapping_limit E:\Demo\dulifenzu\ThinkPHP\Library\Think\Model\RelationModel.class.php 第 189 行.
+SQL: SELECT b.* FROM th_blog_attr AS a, th_attr AS b WHERE a.attr_id = b.id AND a. blog_id='2' [ RunTime:0.0003s ]
+SQL: SELECT * FROM `th_cate` WHERE ( 1=1 AND id='8' ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000222s ]
+NOTIC: [8] Undefined variable: date E:\Demo\dulifenzu\Application\Runtime\Cache\Admin\89e99d0d2b381951e18954c1486fc18f.php 第 30 行.
+NOTIC: [8] Undefined variable: date E:\Demo\dulifenzu\Application\Runtime\Cache\Admin\89e99d0d2b381951e18954c1486fc18f.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013901s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000876s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001158s ]
+

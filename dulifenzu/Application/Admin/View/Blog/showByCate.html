@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>显示结果</title>
+<link rel="stylesheet" type="text/css" href="__PUBLIC__/Css/bootstrap.min.css">
+<script type="text/javascript" src="__PUBLIC__/Js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="__PUBLIC__/Js/bootstrap.min.js"></script>
+</head>
+<style>
+
+</style>
+<body>
+	<div class="container">
+   {:W('Hot/Menu')}
+
+   	   <table class="table">
+   	   	<thead>
+   	   		<th>id</th>
+   	   		<th>名称</th>
+   	   		<th>编写时间</th>
+   	   		<th>操作</th>
+   	   	</thead>
+   	       <foreach name="dataInfo" item="data">
+   	          <tr>
+   	          	<td>{$data.id}</td>
+   	          	<td><a href="{:U('Admin/Blog/showContent',array('id'=>$data['id']))}">{$data.title}</a>
+
+   	          	</td>
+   	    
+   	          	<td>
+                 {$date['time']|date="y-m-d",###}
+                </td>
+   	          	
+   	          	<td>
+   	          	<if condition="ACTION_NAME eq 'index'" >
+   	          		<a href="#">修改</a>
+   	          		<a href="{:U('Admin/Blog/toTrash',array('id'=> $data['id'],'type'=>1))}">放入回收站</a>
+   	          		<else />
+                    <a href="{:U('Admin/Blog/toTrash',array('id'=> $data['id'],'type'=>0))}">还原</a>
+   	          		<a href="{:U('Admin/Blog/toTrash',array('id'=> $data['id'],'type'=>1))}">彻底删除</a>
+   	          		</if>
+   	          	</td>
+   	          </tr>
+   	       	
+   	       </foreach>
+   	   </table>
+   </div>
+   
+   
+</body>
+
+</html>
+</body>
+</html>
